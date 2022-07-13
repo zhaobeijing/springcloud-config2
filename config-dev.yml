@@ -1,1 +1,2 @@
-config_____________dev.yml的本体
+config:
+  info:"master branch,springcloud-config-dev.yml,version=11"
